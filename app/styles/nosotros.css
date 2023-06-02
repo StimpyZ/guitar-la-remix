@@ -1,0 +1,13 @@
+.nosotros .contenido {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .nosotros .contenido {
+        grid-template-columns: 1fr;
+    }
+}
+    

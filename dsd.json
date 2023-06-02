@@ -1,0 +1,102 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "content": "Somos una página dedicada a las guitarras. Nuestro objetivo es ofrecer a los amantes de la música una plataforma en línea donde puedan encontrar y adquirir guitarras de alta calidad. Trabajamos con fabricantes reconocidos y brindamos contenido educativo para ayudar a los guitarristas a mejorar sus habilidades y mantenerse actualizados. ¡Únete a nuestra comunidad y descubre tu guitarra perfecta!\n\nSomos un equipo apasionado de músicos y amantes de las guitarras. Ofrecemos una amplia selección de guitarras de alta calidad y brindamos contenido inspirador y consejos prácticos para ayudarte a explorar y disfrutar del mundo de las guitarras. Únete a nuestra comunidad y descubre la pasión por la música que compartimos.",
+            "createdAt": "2023-06-01T19:28:29.988Z",
+            "updatedAt": "2023-06-01T19:34:44.916Z",
+            "publishedAt": "2023-06-01T19:28:35.071Z",
+            "title": "nosotros",
+            "image": {
+                "data": [
+                    {
+                        "id": 21,
+                        "attributes": {
+                            "name": "nosotros.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 1200,
+                            "height": 800,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/stimp/image/upload/v1685647702/large_nosotros_9b2e289924.jpg",
+                                    "hash": "large_nosotros_9b2e289924",
+                                    "mime": "image/jpeg",
+                                    "name": "large_nosotros.jpg",
+                                    "path": null,
+                                    "size": 116.81,
+                                    "width": 1000,
+                                    "height": 667,
+                                    "provider_metadata": {
+                                        "public_id": "large_nosotros_9b2e289924",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/stimp/image/upload/v1685647702/small_nosotros_9b2e289924.jpg",
+                                    "hash": "small_nosotros_9b2e289924",
+                                    "mime": "image/jpeg",
+                                    "name": "small_nosotros.jpg",
+                                    "path": null,
+                                    "size": 30.65,
+                                    "width": 500,
+                                    "height": 333,
+                                    "provider_metadata": {
+                                        "public_id": "small_nosotros_9b2e289924",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/stimp/image/upload/v1685647702/medium_nosotros_9b2e289924.jpg",
+                                    "hash": "medium_nosotros_9b2e289924",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_nosotros.jpg",
+                                    "path": null,
+                                    "size": 68.12,
+                                    "width": 750,
+                                    "height": 500,
+                                    "provider_metadata": {
+                                        "public_id": "medium_nosotros_9b2e289924",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/stimp/image/upload/v1685647702/thumbnail_nosotros_9b2e289924.jpg",
+                                    "hash": "thumbnail_nosotros_9b2e289924",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_nosotros.jpg",
+                                    "path": null,
+                                    "size": 7.71,
+                                    "width": 234,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_nosotros_9b2e289924",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "nosotros_9b2e289924",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 132.96,
+                            "url": "https://res.cloudinary.com/stimp/image/upload/v1685647702/nosotros_9b2e289924.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "nosotros_9b2e289924",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-06-01T19:28:20.994Z",
+                            "updatedAt": "2023-06-01T19:28:20.994Z"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "meta": {}
+}
