@@ -51,3 +51,7 @@ rm -rf app
 # copy your app over
 cp -R ../my-old-remix-app/app app
 ```
+Live Demo:
+```sh
+https://guitar-la-remix-gray.vercel.app/
+```
