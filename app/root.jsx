@@ -18,7 +18,7 @@ import error from '~/styles/error.css'
 export function meta() {
 
     return [
-        { charset: 'utf-8' },
+        { 'http-equiv': 'Content-Type', content: 'text/html; charset=utf-8' },
         { title: 'GuitatLA - Remix' },
         { viewport: 'width=device-width,initial-scale=1.0' }
     ]
