@@ -59,6 +59,10 @@
     gap: 2rem;
 }
 
+.header .navegacion img {
+    width: 2.5rem;
+}
+
 .header .navegacion a {
     color: var(--white);
     text-decoration: none;
@@ -110,6 +114,10 @@
 .footer .navegacion a{
     text-decoration: none;
     color: var(--white);
+}
+
+.footer .navegacion a:last-of-type{
+    display: none;
 }
 
 @media (max-width: 768px) {

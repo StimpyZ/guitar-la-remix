@@ -33,7 +33,7 @@ function Nosotros() {
 
     const nosotros = useLoaderData()
     const imageUrl = nosotros.image.data[0].attributes.formats.medium.url
-
+    
     return (
         <main className="contenedor nosotros">
             <h2 className="heading"> Nosotros</h2>

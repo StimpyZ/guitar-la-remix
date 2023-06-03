@@ -35,3 +35,37 @@
     margin: 0;
     font-weight: 900;
 }
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.formulario label {
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+}
+
+.formulario select {
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid var(--black);
+    border-radius: 0.5rem;
+}
+
+.formulario input[type="submit"] {
+    background-color: var(--black);
+    color: var(--white);
+    font-size: 2.2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 1rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color .3s ease;
+}
+
+.formulario input[type="submit"]:hover {
+    background-color: var(--primary);
+}
