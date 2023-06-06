@@ -53,5 +53,5 @@ cp -R ../my-old-remix-app/app app
 ```
 Live Demo:
 ```sh
-https://guitar-la-remix-gray.vercel.app/
+https://guitar-la-remix-5i49i3gmh-stimpyz.vercel.app/
 ```
